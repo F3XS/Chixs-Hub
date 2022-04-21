@@ -6,3 +6,6 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/Tower-Of-He
 
 -- 3008 [2.7]
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/3008/main/Main/Script.lua"))()
+
+-- Anarchy 
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/Anarchy/main/Main/Script.lua"))()
