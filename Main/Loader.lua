@@ -11,12 +11,12 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/Tower-Of-He
 end
 
 -- 3008 [2.7]
-if game.PlaceId == 370731277 then
+if game.PlaceId == 2768379856 then
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/3008/main/Main/Script.lua"))()
 end
 
 -- Anarchy 
-if game.PlaceId == 370731277 then
+if game.PlaceId == 5872075530 then
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/F3XS/Anarchy/main/Main/Script.lua"))()
 end
 
